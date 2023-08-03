@@ -1,0 +1,28 @@
+############## English navigation ###############
+# main menu
+#[[main]]
+#name = "Home"
+#url = ""
+#weight = 1
+
+#[[main]]
+#name = "FAQ"
+#url = "faq"
+#weight = 2
+
+
+# footer menu
+[[footer]]
+name = "Website"
+url = "https://microcks.io/"
+weight = 1
+
+[[footer]]
+name = "Community"
+url = "https://microcks.io/community/"
+weight = 2
+
+[[footer]]
+name = "Github ⭐️"
+url = "https://github.com/microcks/microcks"
+weight = 3
